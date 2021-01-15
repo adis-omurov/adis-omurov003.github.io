@@ -39,6 +39,48 @@ artist = "Queen"
 
 console.log("I'm the fan of \""+ artist + "\"!");
 
-let film = "Hobbit";
-console.log(`My favourite movie is ` + `"` + film + `"`);
-console.log(`My favourite movie is "${film}"`);
+//let film = "Hobbit";
+//console.log(`My favourite movie is ` + `"` + film + `"`);
+//console.log(`My favourite movie is "${film}"`);
+
+//let a = +prompt(`What is A?`);
+//let b = +prompt(`What s B?`);
+//let sum = a+b
+//console.log(`The sum of two numbers is equal to ${sum}`)
+
+let c = +prompt(`What is C?`);
+let d = +prompt(`What is D?`);
+let e = c * d ;
+
+
+console.log(`C multilated by D is equal to ${e}`);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+let firstName = prompt(`What is yoour name?`);
+console.log(`Your name is ${firstName}`);
