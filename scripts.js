@@ -99,14 +99,19 @@ console.log("I'm the fan of \""+ artist + "\"!");
 
 //console.log(`Distance equal to speed per time ${e}`);
 
-//let dis = +prompt(`What is distence?`);
-//let sp = +prompt(`What is speed?`);
-//let e = dis / sp ;
+//let distance = +prompt(`What is distence?`);
+//let speed = +prompt(`What is speed?`);
+//let e = distanse / speed ;
 
 
 //console.log(`Time equal to distance divided on the speed ${e}`);
 
+let distance = +prompt(`What is distence?`);
+let time = +prompt(`What is time?`);
+let e = distance / time ;
 
+
+console.log(`Speed equal to distance divided on the time ${e}`);
 
 
 
