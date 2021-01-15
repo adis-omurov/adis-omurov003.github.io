@@ -56,14 +56,55 @@ console.log("I'm the fan of \""+ artist + "\"!");
 //console.log(`C multilated by D is equal to ${e}`);
 
 
-let speed = +prompt(`What is speed?`);
-let time = +prompt(`What is time?`);
-let e = speed * time ;
 
 
-console.log(`Distance per speed per time ${e}`);
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//let speed = +prompt(`What is speed?`);
+//let time = +prompt(`What is time?`);
+//let e = speed * time ;
+
+
+//console.log(`Distance equal to speed per time ${e}`);
+
+//let dis = +prompt(`What is distence?`);
+//let sp = +prompt(`What is speed?`);
+//let e = dis / sp ;
+
+
+//console.log(`Time equal to distance divided on the speed ${e}`);
 
 
 
