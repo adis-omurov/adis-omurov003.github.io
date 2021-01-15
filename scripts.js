@@ -48,12 +48,20 @@ console.log("I'm the fan of \""+ artist + "\"!");
 //let sum = a+b
 //console.log(`The sum of two numbers is equal to ${sum}`)
 
-let c = +prompt(`What is C?`);
-let d = +prompt(`What is D?`);
-let e = c * d ;
+//let c = +prompt(`What is C?`);
+//let d = +prompt(`What is D?`);
+//let e = c * d ;
 
 
-console.log(`C multilated by D is equal to ${e}`);
+//console.log(`C multilated by D is equal to ${e}`);
+
+
+let speed = +prompt(`What is speed?`);
+let time = +prompt(`What is time?`);
+let e = speed * time ;
+
+
+console.log(`Distance per speed per time ${e}`);
 
 
 
